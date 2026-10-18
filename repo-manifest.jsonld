@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/resemble-ai/Resemblyzer/commit/15d828edebe06bc72b9cabc8ef8ca5ab2cb457ce",
       "git:hexsha": "15d828edebe06bc72b9cabc8ef8ca5ab2cb457ce",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/resemble-ai/Resemblyzer/commit/74b9c5fb915f491727a342c806a68129f40f6e79",
