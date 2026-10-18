@@ -1,0 +1,11 @@
+{
+  "org": "resemble-ai",
+  "repo": "Resemblyzer",
+  "versions": [
+    {
+      "commit": "15d828edebe06bc72b9cabc8ef8ca5ab2cb457ce",
+      "tag": "",
+      "parsed_at": "2026-10-18T01:48:26.766554+00:00"
+    }
+  ]
+}
